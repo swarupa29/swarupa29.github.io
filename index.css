@@ -165,8 +165,12 @@ a:hover
   padding:10px;
 
 }
-a:hover{
-  color:#E45A84
+.skills,.projects,.contact{
+  padding-top: 150px;
+}
+.e2{
+  padding:20px;
+  border-radius: 10px;
 }
   
 @keyframes move {
