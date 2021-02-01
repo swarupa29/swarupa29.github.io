@@ -1,2 +1,4 @@
 # swarupa29.github.io
-My Personal Website
+This is my personal website hosted using github pages
+Here's the link to my website:
+https://swarupa29.github.io/
